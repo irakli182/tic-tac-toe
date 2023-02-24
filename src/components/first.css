@@ -93,7 +93,7 @@ body {
     border-style: none;
     background-color: #c08ba1;
     color: black;
-    font-family: sans-serif;
+    text-align: center;
     transition: 0.3s;
     margin-bottom: 50px;
 }
